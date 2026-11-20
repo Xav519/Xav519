@@ -9,21 +9,21 @@ I help organizations secure cloud and AI systems, and I build projects on AWS to
 - **AI security:** attacking and hardening AI agents
 - **Resilience:** security that keeps working when things break
 
-### 🚀 Featured projects
+### Featured projects
 | Project | What it does |
 |---|---|
 | [**Innovabank**](https://github.com/Xav519/innovabank-ai-agent-security) | Vulnerable vs hardened banking AI agent on AWS, with an attack bench |
 | [**SOC Quantum Optimizer**](LINK_HERE) | Hybrid quantum-classical tool to assign SOC analysts to threats |
 | [**AWS Drift Detection & Remediation**](https://github.com/Xav519/aws-DriftDetection-Remediation) | Detects infrastructure drift and fixes it automatically |
 
-### 🏅 Credentials
+### Credentials
 - AWS Certified Security Specialty
 - AWS Certified Solutions Architect Associate
 - CompTIA Security+ / Network+
 - Associate of (ISC)², CISSP exam passed (certification pending required work experience)
 - Top 1% globally on [TryHackMe](https://tryhackme.com/p/Xav519)
 
-### 📫 Reach me
+### Reach me
 [LinkedIn](LINK_HERE)
 
 🐧 *Linux: it runs infinite loops in 5 seconds.*
