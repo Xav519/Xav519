@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/Xav519"><img src="https://img.shields.io/badge/TryHackMe-Top_1%25_Globally-212C42?logo=tryhackme&logoColor=white" alt="TryHackMe Top 1%" /></a>
+  <a href="https://tryhackme.com/p/Xav519"><img src="https://img.shields.io/badge/TryHackMe-Top_1%25_Globally-1F5F99?logo=tryhackme&logoColor=white" alt="TryHackMe Top 1%" /></a>
   <img src="https://img.shields.io/badge/AWS-Security_Specialty-1F5F99" alt="AWS Security Specialty" />
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-1F5F99" alt="AWS Solutions Architect Associate" />
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-1F5F99" alt="CompTIA Security+" />
