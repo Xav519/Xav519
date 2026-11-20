@@ -38,7 +38,7 @@ A fictional banking AI agent deployed in two versions, **vulnerable** and **hard
 
 `AWS` `Terraform` `Amazon Bedrock Guardrails` `IAM` `CloudWatch` `OWASP` `MITRE ATLAS`
 
-### ⚛️ [SOC Quantum Optimizer](LINK_HERE)
+### ⚛️ [SOC Quantum Optimizer](https://github.com/Xav519/aws-quantum-finance-AI)
 A hybrid quantum-classical tool that assigns SOC analysts to threats. Built around quantum-readiness, not hype: it runs QAOA on Amazon Braket and uses Claude on Amazon Bedrock for the reasoning layer.
 
 `Amazon Braket` `QAOA` `Amazon Bedrock` `Python`
@@ -63,7 +63,7 @@ Detects infrastructure drift in AWS and fixes it automatically, so the live envi
 ## Let's connect
 
 <p>
-  <a href="LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/xavierdupuis/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
