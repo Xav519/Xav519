@@ -1,4 +1,4 @@
-<img src=".\assets\github-header-banner.png" alt="Introduction Banner" style="text-align: center; margin-bottom: 30px;" />
+<img src=".\assets\GithubFile.jpg" alt="Introduction Banner" style="text-align: center; margin-bottom: 30px;" />
 
 -   💼 **Senior Cybersecurity Advisor**
 -   :monocle_face: Passionate about **cloud engineering**, **cybersecurity** and **artificial intelligence**
